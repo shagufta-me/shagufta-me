@@ -22,13 +22,6 @@
 
 <hr>
 
-### 🎖️ **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilzaibofficial&theme=algolia&no-frame=true&column=7">
-</div>
-
-<hr>
-
 ### 🛠 **Tech Stack & Tools**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,postgresql,git,docker" />
